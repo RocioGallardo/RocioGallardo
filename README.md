@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ## Sobre mi
-- 🏆 Top 10 en Desarrollo Web 
+- 🏆 Top 10 en Desarrollo Web / Javascript / React JS
 - 🫶🏻 Embajadora en Coderhouse
 - 👨‍💻 Amo programar y estoy en busqueda de mi primer trabajo IT 
 - 📚 Sigo aprendiendo todo sobre las tecnologías Frontend y en un futuro, Backend 😅
