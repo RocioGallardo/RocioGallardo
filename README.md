@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ## Sobre mi
 - 🏆 Top 10 en Desarrollo Web / Javascript / React JS
-- 🫶🏻 Embajadora en Coderhouse
 - 👨‍💻 Amo programar y estoy en busqueda de mi primer trabajo IT 
+- Actualmente realizando prácticas en QA
 - 📚 Luego de haber aprendido sobre las tecnologías Frontend, ahora estoy estudiando Backend y Testing manual 
-- 💪🏼 Objetivos futuros: Estar en constante crecimiento / no perder el entusiasmo
+
 
 
 ## Tecnologias con las que he trabajado
